@@ -27,7 +27,7 @@ The system analyzes the uploaded image and populates relevant fields with extrac
 ### Environment Setup
 1. Install UV (Python package installer)
 ```bash
-curl -sSf https://install.ultraviolet.rs | sh
+pip install uv
 ```
 
 2. Create a new environment
