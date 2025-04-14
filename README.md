@@ -46,7 +46,7 @@ source .venv/bin/activate
 
 ### Install Dependencies
 ```bash
-uv pip install gradio pollination pollination.ai
+uv pip install gradio pollinations pollinations.ai
 ```
 
 ## Running the Project
